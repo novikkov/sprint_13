@@ -1,0 +1,31 @@
+{
+  "name": "sprint_12",
+  "version": "1.0.0",
+  "description": "Sprint_12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novikkov/sprint_12.git"
+  },
+  "author": "novik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novikkov/sprint_12/issues"
+  },
+  "homepage": "https://github.com/novikkov/sprint_12#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "gh-pages": "^2.2.0",
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
