@@ -1,7 +1,7 @@
 {
-  "name": "sprint_12",
+  "name": "sprint_13",
   "version": "1.0.0",
-  "description": "Sprint_12",
+  "description": "Sprint_13",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/novikkov/sprint_12.git"
+    "url": "git+https://github.com/novikkov/sprint_13.git"
   },
   "author": "novik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/novikkov/sprint_12/issues"
+    "url": "https://github.com/novikkov/sprint_13/issues"
   },
-  "homepage": "https://github.com/novikkov/sprint_12#readme",
+  "homepage": "https://github.com/novikkov/sprint_13#readme",
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
@@ -26,6 +26,8 @@
     "nodemon": "^2.0.3"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
   }
 }
