@@ -1,4 +1,4 @@
-# Sprint_13 - [https://novikkov.github.io/sprint_13/]
+# Sprint_13 - [https://novikkov.github.io/sprint_12_backend/]
 
 ## Проектная работа 13_v0.0.1
 
@@ -6,7 +6,7 @@
 
 ### Краткая информация о проекте
 В работе используется Node.js (Express.js) и библиотека пакетов NPM для сборки кода проекта "Место" и публикации на сервере gh-pages.
-Актуальная версия проекта (v0.0.2) доступна по этой [ссылке](https://novikkov.github.io/sprint_12_backend/)
+Актуальная версия проекта (v0.0.1) доступна по этой [ссылке](https://novikkov.github.io/sprint_12_backend/)
 
 ###  ПО для выполнения работы:
 <li>
